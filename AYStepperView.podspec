@@ -5,7 +5,7 @@ s.summary          = "A simple customizable stepper view written in Objective C.
 s.homepage         = "https://github.com/yenbekbay/AYStepperView"
 s.license          = 'MIT'
 s.author           = { "Ayan Yenbekbay" => "ayan.yenb@gmail.com" }
-s.source           = { :git => "https://github.com/yenbekbay/AYStepperView", :tag => s.version.to_s }
+s.source           = { :git => "https://github.com/yenbekbay/AYStepperView.git", :tag => s.version.to_s }
 
 s.platform     = :ios, '7.0'
 s.requires_arc = true
