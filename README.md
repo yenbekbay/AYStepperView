@@ -7,7 +7,7 @@
 A simple customizable stepper view written in Objective C.
 
 <p>
-  <a href='https://appetize.io/app/0gvbpg1kekvfv1ex8j1gzrfdx4' alt='Live demo'>
+  <a href='https://appetize.io/app/mq5ua2whn6qz1ztrdv0hjr6x3w' alt='Live demo'>
     <img width="50" height="60" src="Assets/demo.png"/>
   </a>
 </p>
