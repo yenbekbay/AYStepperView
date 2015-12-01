@@ -1,0 +1,20 @@
+PODS:
+  - AYStepperView (0.1.0):
+    - pop (~> 1.0)
+  - MBXPageViewController (0.5.3)
+  - pop (1.0.8)
+
+DEPENDENCIES:
+  - AYStepperView (from `../`)
+  - MBXPageViewController (~> 0.5)
+
+EXTERNAL SOURCES:
+  AYStepperView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AYStepperView: 1ca36adce09196a40acd80640a6b7841a5e64915
+  MBXPageViewController: 92c432754e4277a9f5fda119beb0a9917a7693e0
+  pop: bb773ae2c791ca2629de13b347e7a8b450fa6a57
+
+COCOAPODS: 0.39.0

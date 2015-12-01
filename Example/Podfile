@@ -1,0 +1,10 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'AYStepperView_Example', :exclusive => true do
+  pod 'AYStepperView', :path => '../'
+  pod 'MBXPageViewController', '~> 0.5'
+end
+
+target 'AYStepperView_Tests', :exclusive => true do
+  pod 'AYStepperView', :path => '../'
+end
